@@ -1,0 +1,6 @@
+project: unishox2
+target: unicode_fuzzer
+
+cmds:
+    - cmd: ./unicode-fuzzer
+      libfuzzer: true
